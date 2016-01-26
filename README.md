@@ -1,2 +1,2 @@
 # java-sentence-recorder
-Store sentence on file and search list of sentences using user input keyword
+Allows you to store sentences, words on text file and then to retrieve them by searching the file using user input keywords (live search no buttons)
